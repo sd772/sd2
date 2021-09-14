@@ -1,5 +1,4 @@
 package com.suraksha.javacore2021aug.day001;
-
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
